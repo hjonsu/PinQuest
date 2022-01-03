@@ -9,8 +9,9 @@
     "local": "./node_modules/.bin/nodemon -L --ignore public/",
     "db:reset": "node bin/resetdb.js"
   },
-  "author": "Lighthouse Labs",
+  "author": "Kevin Mason, Hang Su, Jamie Li",
   "license": "ISC",
+  "homepage": "https://github.com/hjonsu/PinQuest#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "cookie-session": "^1.4.0",
